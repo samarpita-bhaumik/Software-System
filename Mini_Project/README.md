@@ -41,11 +41,13 @@ Setup:
 Run the server by running the following on your command line:
 
   a. gcc server.c -o server
+  
   b. ./server
 
 Run the client by running the following on your command line:
 
   a. gcc client.c -o client
+  
   b. ./client
 
     The server can handle multiple clients, so you can execute client code simultaneously on different terminals
